@@ -1,0 +1,12 @@
+# Site settings
+title: Intro to Phaser
+email: k.chodorow@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A tutorial for learning Phaser.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kchodorow.com" # the base hostname & protocol for your site
+twitter_username: kchodorow
+github_username:  kchodorow
+
+# Build settings
+markdown: kramdown
